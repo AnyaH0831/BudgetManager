@@ -1,0 +1,4 @@
+newBudget - 2023,income,Savings,Savings,Semi-Annual,200.0
+newBudget - 2023,income,alice's love,Other,Daily,3000.0
+newBudget - 2023,expense,TextBooks,Education,Quarterly,20.0
+newBudget - 2023,expense,my love for alice,Personal,Daily,100.0
